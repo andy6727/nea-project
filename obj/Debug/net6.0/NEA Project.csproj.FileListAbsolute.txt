@@ -1,0 +1,1647 @@
+E:\School Work\A Level\NEA\Development\NEA Project\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\NEA Project\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\NEA Project\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\NEA Project\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\NEA Project\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\NEA Project\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\NEA Project\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\NEA Project\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\NEA Project\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\NEA Project\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\NEA Project\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\NEA Project\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\NEA Project\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\NEA Project\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\NEA Project\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\NEA Project\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\NEA Project\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\NEA Project\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\NEA Project\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\NEA Project\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\NEA Project\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\NEA Project\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\NEA Project\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\NEA Project\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\NEA Project\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\NEA Project\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v2.30.03.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v2.30.03.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v2.30.03.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v2.30.03.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v2.30.03.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v2.30.03.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v2.30.03.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v2.30.03.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v2.30.03.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v2.30.03.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v2.30.03.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v2.30.03.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v2.30.03.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v2.30.03.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v2.30.03.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v2.30.03.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v2.30.03.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v2.30.03.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v2.30.03.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v2.30.03.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v2.30.03.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v2.30.03.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v2.30.03.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v2.30.03.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v2.30.03.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v2.30.03.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v3.09.04.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v3.09.04.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v3.09.04.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v3.09.04.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v3.09.04.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v3.09.04.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v3.09.04.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v3.09.04.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v3.09.04.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v3.09.04.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v3.09.04.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v3.09.04.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v3.09.04.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v3.09.04.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v3.09.04.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v3.09.04.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v3.09.04.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v3.09.04.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v3.09.04.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v3.09.04.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v3.09.04.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v3.09.04.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v3.09.04.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v3.09.04.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v3.09.04.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v3.09.04.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v4.11.04.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v4.11.04.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v4.11.04.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v4.11.04.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v4.11.04.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v4.11.04.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v4.11.04.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v4.11.04.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v4.11.04.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v4.11.04.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v4.11.04.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v4.11.04.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v4.11.04.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v4.11.04.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v4.11.04.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v4.11.04.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v4.11.04.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v4.11.04.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v4.11.04.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v4.11.04.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v4.11.04.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v4.11.04.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v4.11.04.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v4.11.04.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v4.11.04.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v4.11.04.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v5 14.04.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v5 14.04.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v5 14.04.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v5 14.04.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v5 14.04.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v5 14.04.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v5 14.04.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v5 14.04.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v5 14.04.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v5 14.04.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v5 14.04.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v5 14.04.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v5 14.04.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v5 14.04.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v5 14.04.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v5 14.04.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v5 14.04.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v5 14.04.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v5 14.04.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v5 14.04.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v5 14.04.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v5 14.04.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v5 14.04.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v5 14.04.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v5 14.04.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v5 14.04.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v6 15.04.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v6 15.04.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v6 15.04.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v6 15.04.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v6 15.04.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v6 15.04.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v6 15.04.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v6 15.04.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v6 15.04.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v6 15.04.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v6 15.04.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v6 15.04.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v6 15.04.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v6 15.04.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v6 15.04.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v6 15.04.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v6 15.04.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v6 15.04.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v6 15.04.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v6 15.04.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v6 15.04.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v6 15.04.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v6 15.04.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v6 15.04.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v6 15.04.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v6 15.04.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\projec v7 16.04.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\projec v7 16.04.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\projec v7 16.04.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\projec v7 16.04.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\projec v7 16.04.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\projec v7 16.04.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\projec v7 16.04.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\projec v7 16.04.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\projec v7 16.04.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\projec v7 16.04.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\projec v7 16.04.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\projec v7 16.04.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\projec v7 16.04.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\projec v7 16.04.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\projec v7 16.04.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\projec v7 16.04.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\projec v7 16.04.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\projec v7 16.04.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\projec v7 16.04.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\projec v7 16.04.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\projec v7 16.04.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\projec v7 16.04.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\projec v7 16.04.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\projec v7 16.04.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\projec v7 16.04.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\projec v7 16.04.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v7 16.04.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v7 16.04.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v7 16.04.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v7 16.04.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v7 16.04.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v7 16.04.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v7 16.04.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v7 16.04.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v7 16.04.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v7 16.04.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v7 16.04.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v7 16.04.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v7 16.04.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v7 16.04.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v7 16.04.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v7 16.04.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v7 16.04.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v7 16.04.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v7 16.04.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v7 16.04.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v7 16.04.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v7 16.04.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v7 16.04.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v7 16.04.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v7 16.04.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v7 16.04.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v8 28.04.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v8 28.04.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v8 28.04.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v8 28.04.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v8 28.04.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v8 28.04.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v8 28.04.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v8 28.04.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v8 28.04.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v8 28.04.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v8 28.04.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v8 28.04.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v8 28.04.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v8 28.04.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v8 28.04.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v8 28.04.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v8 28.04.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v8 28.04.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v8 28.04.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v8 28.04.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v8 28.04.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v8 28.04.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v8 28.04.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v8 28.04.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v8 28.04.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v8 28.04.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v9 04.05.24\NEA Project\bin\Debug\net6.0\Content\IdleSheet.xnb
+E:\School Work\A Level\NEA\Development\project v9 04.05.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v9 04.05.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v9 04.05.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v9 04.05.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v9 04.05.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v9 04.05.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v9 04.05.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v9 04.05.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v9 04.05.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v9 04.05.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v9 04.05.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v9 04.05.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v9 04.05.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v9 04.05.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v9 04.05.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v9 04.05.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v9 04.05.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v9 04.05.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v9 04.05.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v9 04.05.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v9 04.05.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v9 04.05.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v9 04.05.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v9 04.05.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v9 04.05.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v9 04.05.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v9 06.05.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v9 06.05.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v9 06.05.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v9 06.05.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v9 06.05.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v9 06.05.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v9 06.05.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v9 06.05.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v9 06.05.24\NEA Project\bin\Debug\net6.0\Content\IdleSheet.xnb
+E:\School Work\A Level\NEA\Development\project v9 06.05.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v9 06.05.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v9 06.05.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v9 06.05.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v9 06.05.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v9 06.05.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v9 06.05.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v9 06.05.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v9 06.05.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v9 06.05.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v9 06.05.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v9 06.05.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v9 06.05.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v9 06.05.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v9 06.05.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v9 06.05.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v9 06.05.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v9 06.05.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v10 13.05.24\NEA Project\bin\Debug\net6.0\Content\IdleSheet.xnb
+E:\School Work\A Level\NEA\Development\project v10 13.05.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v10 13.05.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v10 13.05.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v10 13.05.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v10 13.05.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v10 13.05.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v10 13.05.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v10 13.05.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v10 13.05.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v10 13.05.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v10 13.05.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v10 13.05.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v10 13.05.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v10 13.05.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v10 13.05.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v10 13.05.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v10 13.05.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v10 13.05.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v10 13.05.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v10 13.05.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v10 13.05.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v10 13.05.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v10 13.05.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v10 13.05.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v10 13.05.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v10 13.05.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v11 02.06.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v11 02.06.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v11 02.06.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v11 02.06.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v11 02.06.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v11 02.06.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v11 02.06.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v11 02.06.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v11 02.06.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v11 02.06.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v11 02.06.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v11 02.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v11 02.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v11 02.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v11 02.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v11 02.06.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v11 02.06.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v11 02.06.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v11 02.06.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v11 02.06.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v11 02.06.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v11 02.06.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v11 02.06.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v11 02.06.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v11 02.06.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v11 02.06.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v11 02.06.24\NEA Project\bin\Debug\net6.0\Content\standing.xnb
+E:\School Work\A Level\NEA\Development\project v11 02.06.24\NEA Project\bin\Debug\net6.0\Content\walk.xnb
+E:\School Work\A Level\NEA\Development\project v12 07.06.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v12 07.06.24\NEA Project\bin\Debug\net6.0\Content\standing.xnb
+E:\School Work\A Level\NEA\Development\project v12 07.06.24\NEA Project\bin\Debug\net6.0\Content\walk.xnb
+E:\School Work\A Level\NEA\Development\project v12 07.06.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v12 07.06.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v12 07.06.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v12 07.06.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v12 07.06.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v12 07.06.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v12 07.06.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v12 07.06.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v12 07.06.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v12 07.06.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v12 07.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v12 07.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v12 07.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v12 07.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v12 07.06.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v12 07.06.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v12 07.06.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v12 07.06.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v12 07.06.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v12 07.06.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v12 07.06.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v12 07.06.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v12 07.06.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v12 07.06.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v12 07.06.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v12 07.06.24\NEA Project\bin\Debug\net6.0\Content\hitbox.xnb
+E:\School Work\A Level\NEA\Development\project v13 12.06.24\NEA Project\bin\Debug\net6.0\Content\hitbox.xnb
+E:\School Work\A Level\NEA\Development\project v13 12.06.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v13 12.06.24\NEA Project\bin\Debug\net6.0\Content\standing.xnb
+E:\School Work\A Level\NEA\Development\project v13 12.06.24\NEA Project\bin\Debug\net6.0\Content\walk.xnb
+E:\School Work\A Level\NEA\Development\project v13 12.06.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v13 12.06.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v13 12.06.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v13 12.06.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v13 12.06.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v13 12.06.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v13 12.06.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v13 12.06.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v13 12.06.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v13 12.06.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v13 12.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v13 12.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v13 12.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v13 12.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v13 12.06.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v13 12.06.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v13 12.06.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v13 12.06.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v13 12.06.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v13 12.06.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v13 12.06.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v13 12.06.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v13 12.06.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v13 12.06.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v13 12.06.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v14 14.06.24\NEA Project\bin\Debug\net6.0\Content\hitbox.xnb
+E:\School Work\A Level\NEA\Development\project v14 14.06.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v14 14.06.24\NEA Project\bin\Debug\net6.0\Content\standing.xnb
+E:\School Work\A Level\NEA\Development\project v14 14.06.24\NEA Project\bin\Debug\net6.0\Content\walk.xnb
+E:\School Work\A Level\NEA\Development\project v14 14.06.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v14 14.06.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v14 14.06.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v14 14.06.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v14 14.06.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v14 14.06.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v14 14.06.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v14 14.06.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v14 14.06.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v14 14.06.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v14 14.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v14 14.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v14 14.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v14 14.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v14 14.06.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v14 14.06.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v14 14.06.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v14 14.06.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v14 14.06.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v14 14.06.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v14 14.06.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v14 14.06.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v14 14.06.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v14 14.06.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v14 14.06.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v15 15.06.24\NEA Project\bin\Debug\net6.0\Content\hitbox.xnb
+E:\School Work\A Level\NEA\Development\project v15 15.06.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v15 15.06.24\NEA Project\bin\Debug\net6.0\Content\standing.xnb
+E:\School Work\A Level\NEA\Development\project v15 15.06.24\NEA Project\bin\Debug\net6.0\Content\walk.xnb
+E:\School Work\A Level\NEA\Development\project v15 15.06.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v15 15.06.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v15 15.06.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v15 15.06.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v15 15.06.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v15 15.06.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v15 15.06.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v15 15.06.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v15 15.06.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v15 15.06.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v15 15.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v15 15.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v15 15.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v15 15.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v15 15.06.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v15 15.06.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v15 15.06.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v15 15.06.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v15 15.06.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v15 15.06.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v15 15.06.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v15 15.06.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v15 15.06.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v15 15.06.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v15 15.06.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v15 15.06.24\NEA Project\bin\Debug\net6.0\Content\File.xnb
+E:\School Work\A Level\NEA\Development\project v15 15.06.24\NEA Project\bin\Debug\net6.0\Content\Smooth.xnb
+E:\School Work\A Level\NEA\Development\project v16 17.06.24\NEA Project\bin\Debug\net6.0\Content\File.xnb
+E:\School Work\A Level\NEA\Development\project v16 17.06.24\NEA Project\bin\Debug\net6.0\Content\hitbox.xnb
+E:\School Work\A Level\NEA\Development\project v16 17.06.24\NEA Project\bin\Debug\net6.0\Content\Smooth.xnb
+E:\School Work\A Level\NEA\Development\project v16 17.06.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v16 17.06.24\NEA Project\bin\Debug\net6.0\Content\standing.xnb
+E:\School Work\A Level\NEA\Development\project v16 17.06.24\NEA Project\bin\Debug\net6.0\Content\walk.xnb
+E:\School Work\A Level\NEA\Development\project v16 17.06.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v16 17.06.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v16 17.06.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v16 17.06.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v16 17.06.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v16 17.06.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v16 17.06.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v16 17.06.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v16 17.06.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v16 17.06.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v16 17.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v16 17.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v16 17.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v16 17.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v16 17.06.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v16 17.06.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v16 17.06.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v16 17.06.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v16 17.06.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v16 17.06.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v16 17.06.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v16 17.06.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v16 17.06.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v16 17.06.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v16 17.06.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v17 18.06.24\NEA Project\bin\Debug\net6.0\Content\File.xnb
+E:\School Work\A Level\NEA\Development\project v17 18.06.24\NEA Project\bin\Debug\net6.0\Content\hitbox.xnb
+E:\School Work\A Level\NEA\Development\project v17 18.06.24\NEA Project\bin\Debug\net6.0\Content\Smooth.xnb
+E:\School Work\A Level\NEA\Development\project v17 18.06.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v17 18.06.24\NEA Project\bin\Debug\net6.0\Content\standing.xnb
+E:\School Work\A Level\NEA\Development\project v17 18.06.24\NEA Project\bin\Debug\net6.0\Content\walk.xnb
+E:\School Work\A Level\NEA\Development\project v17 18.06.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v17 18.06.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v17 18.06.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v17 18.06.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v17 18.06.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v17 18.06.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v17 18.06.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v17 18.06.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v17 18.06.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v17 18.06.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v17 18.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v17 18.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v17 18.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v17 18.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v17 18.06.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v17 18.06.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v17 18.06.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v17 18.06.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v17 18.06.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v17 18.06.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v17 18.06.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v17 18.06.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v17 18.06.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v17 18.06.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v17 18.06.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v17 18.06.24\NEA Project\bin\Debug\net6.0\Content\attacks.xnb
+E:\School Work\A Level\NEA\Development\project v18 19.06.24\NEA Project\bin\Debug\net6.0\Content\File.xnb
+E:\School Work\A Level\NEA\Development\project v18 19.06.24\NEA Project\bin\Debug\net6.0\Content\attacks.xnb
+E:\School Work\A Level\NEA\Development\project v18 19.06.24\NEA Project\bin\Debug\net6.0\Content\hitbox.xnb
+E:\School Work\A Level\NEA\Development\project v18 19.06.24\NEA Project\bin\Debug\net6.0\Content\Smooth.xnb
+E:\School Work\A Level\NEA\Development\project v18 19.06.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v18 19.06.24\NEA Project\bin\Debug\net6.0\Content\standing.xnb
+E:\School Work\A Level\NEA\Development\project v18 19.06.24\NEA Project\bin\Debug\net6.0\Content\walk.xnb
+E:\School Work\A Level\NEA\Development\project v18 19.06.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v18 19.06.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v18 19.06.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v18 19.06.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v18 19.06.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v18 19.06.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v18 19.06.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v18 19.06.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v18 19.06.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v18 19.06.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v18 19.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v18 19.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v18 19.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v18 19.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v18 19.06.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v18 19.06.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v18 19.06.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v18 19.06.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v18 19.06.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v18 19.06.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v18 19.06.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v18 19.06.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v18 19.06.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v18 19.06.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v18 19.06.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v19 20.06.24\NEA Project\bin\Debug\net6.0\Content\File.xnb
+E:\School Work\A Level\NEA\Development\project v19 20.06.24\NEA Project\bin\Debug\net6.0\Content\attacks.xnb
+E:\School Work\A Level\NEA\Development\project v19 20.06.24\NEA Project\bin\Debug\net6.0\Content\hitbox.xnb
+E:\School Work\A Level\NEA\Development\project v19 20.06.24\NEA Project\bin\Debug\net6.0\Content\Smooth.xnb
+E:\School Work\A Level\NEA\Development\project v19 20.06.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v19 20.06.24\NEA Project\bin\Debug\net6.0\Content\standing.xnb
+E:\School Work\A Level\NEA\Development\project v19 20.06.24\NEA Project\bin\Debug\net6.0\Content\walk.xnb
+E:\School Work\A Level\NEA\Development\project v19 20.06.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v19 20.06.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v19 20.06.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v19 20.06.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v19 20.06.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v19 20.06.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v19 20.06.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v19 20.06.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v19 20.06.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v19 20.06.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v19 20.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v19 20.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v19 20.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v19 20.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v19 20.06.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v19 20.06.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v19 20.06.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v19 20.06.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v19 20.06.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v19 20.06.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v19 20.06.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v19 20.06.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v19 20.06.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v19 20.06.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v19 20.06.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v19 20.06.24\NEA Project\bin\Debug\net6.0\Content\block.xnb
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\bin\Debug\net6.0\Content\File.xnb
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\bin\Debug\net6.0\Content\attacks.xnb
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\bin\Debug\net6.0\Content\block.xnb
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\bin\Debug\net6.0\Content\hitbox.xnb
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\bin\Debug\net6.0\Content\Smooth.xnb
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\bin\Debug\net6.0\Content\standing.xnb
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\bin\Debug\net6.0\Content\walk.xnb
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\bin\Debug\net6.0\Autofac.dll
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.dll
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Graphics.dll
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Tiled.dll
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v20 27.06.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\bin\Debug\net6.0\Content\File.xnb
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\bin\Debug\net6.0\Content\attacks.xnb
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\bin\Debug\net6.0\Content\block.xnb
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\bin\Debug\net6.0\Content\hitbox.xnb
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\bin\Debug\net6.0\Content\Smooth.xnb
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\bin\Debug\net6.0\Content\standing.xnb
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\bin\Debug\net6.0\Content\walk.xnb
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\bin\Debug\net6.0\Autofac.dll
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.dll
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Graphics.dll
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Tiled.dll
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v21 30.06.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\bin\Debug\net6.0\Content\File.xnb
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\bin\Debug\net6.0\Content\attacks.xnb
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\bin\Debug\net6.0\Content\block.xnb
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\bin\Debug\net6.0\Content\hitbox.xnb
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\bin\Debug\net6.0\Content\Smooth.xnb
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\bin\Debug\net6.0\Content\standing.xnb
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\bin\Debug\net6.0\Content\walk.xnb
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\bin\Debug\net6.0\Autofac.dll
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.dll
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Graphics.dll
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Tiled.dll
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v22 15.07.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\bin\Debug\net6.0\Content\File.xnb
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\bin\Debug\net6.0\Content\attacks.xnb
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\bin\Debug\net6.0\Content\block.xnb
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\bin\Debug\net6.0\Content\hitbox.xnb
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\bin\Debug\net6.0\Content\Smooth.xnb
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\bin\Debug\net6.0\Content\standing.xnb
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\bin\Debug\net6.0\Content\walk.xnb
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\bin\Debug\net6.0\Autofac.dll
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.dll
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Graphics.dll
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Tiled.dll
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v23 31.07.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\bin\Debug\net6.0\Content\File.xnb
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\bin\Debug\net6.0\Content\attacks.xnb
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\bin\Debug\net6.0\Content\block.xnb
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\bin\Debug\net6.0\Content\hitbox.xnb
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\bin\Debug\net6.0\Content\Smooth.xnb
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\bin\Debug\net6.0\Content\standing.xnb
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\bin\Debug\net6.0\Content\walk.xnb
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\bin\Debug\net6.0\Autofac.dll
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.dll
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Graphics.dll
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Tiled.dll
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v24 07.08.24\NEA Project\bin\Debug\net6.0\Content\button.xnb
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\bin\Debug\net6.0\Content\File.xnb
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\bin\Debug\net6.0\Content\attacks.xnb
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\bin\Debug\net6.0\Content\block.xnb
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\bin\Debug\net6.0\Content\button.xnb
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\bin\Debug\net6.0\Content\hitbox.xnb
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\bin\Debug\net6.0\Content\Smooth.xnb
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\bin\Debug\net6.0\Content\standing.xnb
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\bin\Debug\net6.0\Content\walk.xnb
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\bin\Debug\net6.0\Autofac.dll
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.dll
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Graphics.dll
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Tiled.dll
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v25 15.08.24\NEA Project\bin\Debug\net6.0\Content\Pixel.xnb
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\bin\Debug\net6.0\Content\File.xnb
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\bin\Debug\net6.0\Content\attacks.xnb
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\bin\Debug\net6.0\Content\block.xnb
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\bin\Debug\net6.0\Content\button.xnb
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\bin\Debug\net6.0\Content\hitbox.xnb
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\bin\Debug\net6.0\Content\Pixel.xnb
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\bin\Debug\net6.0\Content\Smooth.xnb
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\bin\Debug\net6.0\Content\standing.xnb
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\bin\Debug\net6.0\Content\walk.xnb
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\bin\Debug\net6.0\Autofac.dll
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.dll
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Graphics.dll
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Tiled.dll
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\bin\Debug\net6.0\Content\sliderOff.xnb
+E:\School Work\A Level\NEA\Development\project v26 17.08.24\NEA Project\bin\Debug\net6.0\Content\sliderOn.xnb
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\bin\Debug\net6.0\Content\File.xnb
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\bin\Debug\net6.0\Content\attacks.xnb
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\bin\Debug\net6.0\Content\block.xnb
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\bin\Debug\net6.0\Content\button.xnb
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\bin\Debug\net6.0\Content\hitbox.xnb
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\bin\Debug\net6.0\Content\Pixel.xnb
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\bin\Debug\net6.0\Content\sliderOff.xnb
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\bin\Debug\net6.0\Content\sliderOn.xnb
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\bin\Debug\net6.0\Content\Smooth.xnb
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\bin\Debug\net6.0\Content\standing.xnb
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\bin\Debug\net6.0\Content\walk.xnb
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\bin\Debug\net6.0\Autofac.dll
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.dll
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Graphics.dll
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Tiled.dll
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v27 18.08.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\bin\Debug\net6.0\Content\File.xnb
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\bin\Debug\net6.0\Content\attacks.xnb
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\bin\Debug\net6.0\Content\block.xnb
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\bin\Debug\net6.0\Content\button.xnb
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\bin\Debug\net6.0\Content\hitbox.xnb
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\bin\Debug\net6.0\Content\Pixel.xnb
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\bin\Debug\net6.0\Content\sliderOff.xnb
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\bin\Debug\net6.0\Content\sliderOn.xnb
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\bin\Debug\net6.0\Content\Smooth.xnb
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\bin\Debug\net6.0\Content\standing.xnb
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\bin\Debug\net6.0\Content\walk.xnb
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\bin\Debug\net6.0\Autofac.dll
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.dll
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Graphics.dll
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Tiled.dll
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v28 23.08.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\bin\Debug\net6.0\Content\File.xnb
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\bin\Debug\net6.0\Content\attacks.xnb
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\bin\Debug\net6.0\Content\block.xnb
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\bin\Debug\net6.0\Content\button.xnb
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\bin\Debug\net6.0\Content\hitbox.xnb
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\bin\Debug\net6.0\Content\Pixel.xnb
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\bin\Debug\net6.0\Content\sliderOff.xnb
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\bin\Debug\net6.0\Content\sliderOn.xnb
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\bin\Debug\net6.0\Content\Smooth.xnb
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\bin\Debug\net6.0\Content\standing.xnb
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\bin\Debug\net6.0\Content\walk.xnb
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\bin\Debug\net6.0\Autofac.dll
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.dll
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Graphics.dll
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Tiled.dll
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\bin\Debug\net6.0\Content\healthDisplay.xnb
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\bin\Debug\net6.0\Content\healthBackground.xnb
+E:\School Work\A Level\NEA\Development\project v29 27.08.24\NEA Project\bin\Debug\net6.0\Content\health.xnb
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\bin\Debug\net6.0\Content\File.xnb
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\bin\Debug\net6.0\Content\attacks.xnb
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\bin\Debug\net6.0\Content\block.xnb
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\bin\Debug\net6.0\Content\button.xnb
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\bin\Debug\net6.0\Content\health.xnb
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\bin\Debug\net6.0\Content\healthBackground.xnb
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\bin\Debug\net6.0\Content\healthDisplay.xnb
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\bin\Debug\net6.0\Content\hitbox.xnb
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\bin\Debug\net6.0\Content\Pixel.xnb
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\bin\Debug\net6.0\Content\sliderOff.xnb
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\bin\Debug\net6.0\Content\sliderOn.xnb
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\bin\Debug\net6.0\Content\Smooth.xnb
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\bin\Debug\net6.0\Content\standing.xnb
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\bin\Debug\net6.0\Content\walk.xnb
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\bin\Debug\net6.0\Autofac.dll
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.dll
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Graphics.dll
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Tiled.dll
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v30 27.08.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\bin\Debug\net6.0\Content\File.xnb
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\bin\Debug\net6.0\Content\attacks.xnb
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\bin\Debug\net6.0\Content\block.xnb
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\bin\Debug\net6.0\Content\button.xnb
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\bin\Debug\net6.0\Content\health.xnb
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\bin\Debug\net6.0\Content\healthBackground.xnb
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\bin\Debug\net6.0\Content\healthDisplay.xnb
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\bin\Debug\net6.0\Content\hitbox.xnb
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\bin\Debug\net6.0\Content\Pixel.xnb
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\bin\Debug\net6.0\Content\sliderOff.xnb
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\bin\Debug\net6.0\Content\sliderOn.xnb
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\bin\Debug\net6.0\Content\Smooth.xnb
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\bin\Debug\net6.0\Content\standing.xnb
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\bin\Debug\net6.0\Content\walk.xnb
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\bin\Debug\net6.0\Autofac.dll
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.dll
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Graphics.dll
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Tiled.dll
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v31 27.08.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\bin\Debug\net6.0\Content\File.xnb
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\bin\Debug\net6.0\Content\attacks.xnb
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\bin\Debug\net6.0\Content\block.xnb
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\bin\Debug\net6.0\Content\button.xnb
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\bin\Debug\net6.0\Content\health.xnb
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\bin\Debug\net6.0\Content\healthBackground.xnb
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\bin\Debug\net6.0\Content\healthDisplay.xnb
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\bin\Debug\net6.0\Content\hitbox.xnb
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\bin\Debug\net6.0\Content\Pixel.xnb
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\bin\Debug\net6.0\Content\sliderOff.xnb
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\bin\Debug\net6.0\Content\sliderOn.xnb
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\bin\Debug\net6.0\Content\Smooth.xnb
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\bin\Debug\net6.0\Content\standing.xnb
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\bin\Debug\net6.0\Content\walk.xnb
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\bin\Debug\net6.0\Autofac.dll
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.dll
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Graphics.dll
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Tiled.dll
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v32 27.08.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\bin\Debug\net6.0\Content\File.xnb
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\bin\Debug\net6.0\Content\attacks.xnb
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\bin\Debug\net6.0\Content\block.xnb
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\bin\Debug\net6.0\Content\button.xnb
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\bin\Debug\net6.0\Content\health.xnb
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\bin\Debug\net6.0\Content\healthBackground.xnb
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\bin\Debug\net6.0\Content\healthDisplay.xnb
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\bin\Debug\net6.0\Content\hitbox.xnb
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\bin\Debug\net6.0\Content\Pixel.xnb
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\bin\Debug\net6.0\Content\sliderOff.xnb
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\bin\Debug\net6.0\Content\sliderOn.xnb
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\bin\Debug\net6.0\Content\Smooth.xnb
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\bin\Debug\net6.0\Content\standing.xnb
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\bin\Debug\net6.0\Content\walk.xnb
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\bin\Debug\net6.0\Autofac.dll
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.dll
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Graphics.dll
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Tiled.dll
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v33 290.8.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\bin\Debug\net6.0\Content\File.xnb
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\bin\Debug\net6.0\Content\attacks.xnb
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\bin\Debug\net6.0\Content\block.xnb
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\bin\Debug\net6.0\Content\button.xnb
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\bin\Debug\net6.0\Content\health.xnb
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\bin\Debug\net6.0\Content\healthBackground.xnb
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\bin\Debug\net6.0\Content\healthDisplay.xnb
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\bin\Debug\net6.0\Content\hitbox.xnb
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\bin\Debug\net6.0\Content\Pixel.xnb
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\bin\Debug\net6.0\Content\sliderOff.xnb
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\bin\Debug\net6.0\Content\sliderOn.xnb
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\bin\Debug\net6.0\Content\Smooth.xnb
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\bin\Debug\net6.0\Content\standing.xnb
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\bin\Debug\net6.0\Content\stuns.xnb
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\bin\Debug\net6.0\Content\walk.xnb
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\bin\Debug\net6.0\Autofac.dll
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.dll
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Graphics.dll
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Tiled.dll
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v34 29.08.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\bin\Debug\net6.0\Content\File.xnb
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\bin\Debug\net6.0\Content\attacks.xnb
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\bin\Debug\net6.0\Content\block.xnb
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\bin\Debug\net6.0\Content\button.xnb
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\bin\Debug\net6.0\Content\health.xnb
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\bin\Debug\net6.0\Content\healthBackground.xnb
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\bin\Debug\net6.0\Content\healthDisplay.xnb
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\bin\Debug\net6.0\Content\hitbox.xnb
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\bin\Debug\net6.0\Content\knockout.xnb
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\bin\Debug\net6.0\Content\Pixel.xnb
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\bin\Debug\net6.0\Content\sliderOff.xnb
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\bin\Debug\net6.0\Content\sliderOn.xnb
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\bin\Debug\net6.0\Content\Smooth.xnb
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\bin\Debug\net6.0\Content\standing.xnb
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\bin\Debug\net6.0\Content\stuns.xnb
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\bin\Debug\net6.0\Content\walk.xnb
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\bin\Debug\net6.0\Autofac.dll
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.dll
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Graphics.dll
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Tiled.dll
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v35 30.08.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\bin\Debug\net6.0\Content\File.xnb
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\bin\Debug\net6.0\Content\attacks.xnb
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\bin\Debug\net6.0\Content\block.xnb
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\bin\Debug\net6.0\Content\button.xnb
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\bin\Debug\net6.0\Content\health.xnb
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\bin\Debug\net6.0\Content\healthBackground.xnb
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\bin\Debug\net6.0\Content\healthDisplay.xnb
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\bin\Debug\net6.0\Content\hitbox.xnb
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\bin\Debug\net6.0\Content\knockout.xnb
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\bin\Debug\net6.0\Content\Pixel.xnb
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\bin\Debug\net6.0\Content\sliderOff.xnb
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\bin\Debug\net6.0\Content\sliderOn.xnb
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\bin\Debug\net6.0\Content\Smooth.xnb
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\bin\Debug\net6.0\Content\standing.xnb
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\bin\Debug\net6.0\Content\stuns.xnb
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\bin\Debug\net6.0\Content\walk.xnb
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\bin\Debug\net6.0\Autofac.dll
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.dll
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Graphics.dll
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Tiled.dll
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v36 30.08.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\Content\File.xnb
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\Content\attacks.xnb
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\Content\block.xnb
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\Content\button.xnb
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\Content\health.xnb
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\Content\healthBackground.xnb
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\Content\healthDisplay.xnb
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\Content\hitbox.xnb
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\Content\hitFX.xnb
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\Content\knockout.xnb
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\Content\Pixel.xnb
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\Content\sliderOff.xnb
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\Content\sliderOn.xnb
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\Content\Smooth.xnb
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\Content\standing.xnb
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\Content\stuns.xnb
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\Content\walk.xnb
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\Autofac.dll
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.dll
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Graphics.dll
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Tiled.dll
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v37 30.08.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\Content\File.xnb
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\Content\attacks.xnb
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\Content\block.xnb
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\Content\button.xnb
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\Content\health.xnb
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\Content\healthBackground.xnb
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\Content\healthDisplay.xnb
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\Content\hitbox.xnb
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\Content\hitFX.xnb
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\Content\knockout.xnb
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\Content\Pixel.xnb
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\Content\sliderOff.xnb
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\Content\sliderOn.xnb
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\Content\Smooth.xnb
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\Content\standing.xnb
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\Content\stuns.xnb
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\Content\walk.xnb
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\Autofac.dll
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.dll
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Graphics.dll
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Tiled.dll
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v38 31.08.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\Content\File.xnb
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\Content\attacks.xnb
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\Content\block.xnb
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\Content\button.xnb
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\Content\health.xnb
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\Content\healthBackground.xnb
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\Content\healthDisplay.xnb
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\Content\hitbox.xnb
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\Content\hitFX.xnb
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\Content\knockout.xnb
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\Content\Pixel.xnb
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\Content\sliderOff.xnb
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\Content\sliderOn.xnb
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\Content\Smooth.xnb
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\Content\standing.xnb
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\Content\stuns.xnb
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\Content\walk.xnb
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\Autofac.dll
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.dll
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Graphics.dll
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Tiled.dll
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v39 31.08.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\Content\File.xnb
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\Content\attacks.xnb
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\Content\block.xnb
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\Content\button.xnb
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\Content\health.xnb
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\Content\healthBackground.xnb
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\Content\healthDisplay.xnb
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\Content\hitbox.xnb
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\Content\hitFX.xnb
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\Content\knockout.xnb
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\Content\Pixel.xnb
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\Content\sliderOff.xnb
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\Content\sliderOn.xnb
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\Content\Smooth.xnb
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\Content\standing.xnb
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\Content\stuns.xnb
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\Content\walk.xnb
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\Autofac.dll
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.dll
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Graphics.dll
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Tiled.dll
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v40 31.08.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\Content\File.xnb
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\Content\attacks.xnb
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\Content\block.xnb
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\Content\button.xnb
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\Content\health.xnb
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\Content\healthBackground.xnb
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\Content\healthDisplay.xnb
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\Content\hitbox.xnb
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\Content\hitFX.xnb
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\Content\knockout.xnb
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\Content\Pixel.xnb
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\Content\sliderOff.xnb
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\Content\sliderOn.xnb
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\Content\Smooth.xnb
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\Content\standing.xnb
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\Content\stuns.xnb
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\Content\walk.xnb
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\Autofac.dll
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.dll
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Graphics.dll
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Tiled.dll
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v41 1.09.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Content\File.xnb
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Content\attacks.xnb
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Content\block.xnb
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Content\button.xnb
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Content\health.xnb
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Content\healthBackground.xnb
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Content\healthDisplay.xnb
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Content\hitbox.xnb
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Content\hitFX.xnb
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Content\knockout.xnb
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Content\Pixel.xnb
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Content\sliderOff.xnb
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Content\sliderOn.xnb
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Content\Smooth.xnb
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Content\standing.xnb
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Content\stuns.xnb
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Content\walk.xnb
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Autofac.dll
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.dll
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Graphics.dll
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Tiled.dll
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\School Work\A Level\NEA\Development\project v42 1.09.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Content\File.xnb
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Content\attacks.xnb
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Content\block.xnb
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Content\button.xnb
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Content\health.xnb
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Content\healthBackground.xnb
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Content\healthDisplay.xnb
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Content\hitbox.xnb
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Content\hitFX.xnb
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Content\knockout.xnb
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Content\Pixel.xnb
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Content\sliderOff.xnb
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Content\sliderOn.xnb
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Content\Smooth.xnb
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Content\square.xnb
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Content\standing.xnb
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Content\stuns.xnb
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Content\walk.xnb
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\NEA Project.exe
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\NEA Project.deps.json
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\NEA Project.runtimeconfig.json
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\NEA Project.dll
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\NEA Project.pdb
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Autofac.dll
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.dll
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Graphics.dll
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\MonoGame.Extended.Tiled.dll
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.AssemblyReference.cache
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\obj\Debug\net6.0\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfoInputs.cache
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\obj\Debug\net6.0\NEA Project.AssemblyInfo.cs
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\obj\Debug\net6.0\NEA Project.csproj.CoreCompileInputs.cache
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\obj\Debug\net6.0\NEA Proj.81C8DFDD.Up2Date
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\obj\Debug\net6.0\NEA Project.dll
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\obj\Debug\net6.0\refint\NEA Project.dll
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\obj\Debug\net6.0\NEA Project.pdb
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\obj\Debug\net6.0\NEA Project.genruntimeconfig.cache
+E:\Work\School\A Level\NEA\Development\project v42 1.09.24\NEA Project\obj\Debug\net6.0\ref\NEA Project.dll

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/Work/School/A Level/NEA/Development/project v42 1.09.24/NEA Project/Content/attacks.png</File>
+    <File>E:/Work/School/A Level/NEA/Development/project v42 1.09.24/NEA Project/Content/block.png</File>
+    <File>E:/Work/School/A Level/NEA/Development/project v42 1.09.24/NEA Project/Content/button.png</File>
+    <File>E:/Work/School/A Level/NEA/Development/project v42 1.09.24/NEA Project/Content/health.png</File>
+    <File>E:/Work/School/A Level/NEA/Development/project v42 1.09.24/NEA Project/Content/healthBackground.png</File>
+    <File>E:/Work/School/A Level/NEA/Development/project v42 1.09.24/NEA Project/Content/healthDisplay.png</File>
+    <File>E:/Work/School/A Level/NEA/Development/project v42 1.09.24/NEA Project/Content/hitbox.png</File>
+    <File>E:/Work/School/A Level/NEA/Development/project v42 1.09.24/NEA Project/Content/hitFX.png</File>
+    <File>E:/Work/School/A Level/NEA/Development/project v42 1.09.24/NEA Project/Content/knockout.png</File>
+    <File>E:/Work/School/A Level/NEA/Development/project v42 1.09.24/NEA Project/Content/Pixel.spritefont</File>
+    <File>E:/Work/School/A Level/NEA/Development/project v42 1.09.24/NEA Project/Content/sliderOff.png</File>
+    <File>E:/Work/School/A Level/NEA/Development/project v42 1.09.24/NEA Project/Content/sliderOn.png</File>
+    <File>E:/Work/School/A Level/NEA/Development/project v42 1.09.24/NEA Project/Content/Smooth.spritefont</File>
+    <File>E:/Work/School/A Level/NEA/Development/project v42 1.09.24/NEA Project/Content/square.png</File>
+    <File>E:/Work/School/A Level/NEA/Development/project v42 1.09.24/NEA Project/Content/standing.png</File>
+    <File>E:/Work/School/A Level/NEA/Development/project v42 1.09.24/NEA Project/Content/stuns.png</File>
+    <File>E:/Work/School/A Level/NEA/Development/project v42 1.09.24/NEA Project/Content/walk.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
